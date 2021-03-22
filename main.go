@@ -1,9 +1,9 @@
 package main
 
 import (
-	"./common"
-	"./conf"
-	"./jd_seckill"
+	"github.com/mojinfu/jd_seckill/common"
+	"github.com/mojinfu/jd_seckill/conf"
+	"github.com/mojinfu/jd_seckill/jd_seckill"
 	"errors"
 	"fmt"
 	"github.com/Albert-Zhan/httpc"
